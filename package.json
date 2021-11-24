@@ -1,0 +1,23 @@
+{
+  "name": "art_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Eugene Botha",
+  "license": "ISC",
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "canvas": "^2.8.0",
+    "console": "^0.7.2",
+    "events": "^3.3.0",
+    "forever-monitor": "^3.0.3",
+    "http-request-queue": "^0.1.0",
+    "https": "^1.0.0",
+    "node-fetch": "^2.0.0",
+    "queue": "^6.0.2"
+  }
+}
